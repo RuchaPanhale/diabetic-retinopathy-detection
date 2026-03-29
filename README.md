@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection (Binary Classification)
+# Diabetic Retinopathy Detection
 
 This project builds an explainable deep learning system to detect diabetic retinopathy from retinal fundus images.
 
